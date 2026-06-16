@@ -11,3 +11,7 @@ KodeKloud Engineer Kubernetes Challenges and Solutions.
  7. Deploy ReplicaSet in Kubernetes Cluster
  8. Schedule Cronjobs in Kubernetes
  9. Create Countdown Job in Kubernetes
+ 10. Set Up Time Check Pod in Kubernetes
+ 11. Resolve Pod Deployment Issue
+ 12. Update Deployment and Service in Kubernetes
+ 13. Expose Application Using NodePort Service in Kubernetes

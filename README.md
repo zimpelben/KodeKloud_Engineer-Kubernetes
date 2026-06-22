@@ -15,3 +15,4 @@ KodeKloud Engineer Kubernetes Challenges and Solutions.
  11. Resolve Pod Deployment Issue
  12. Update Deployment and Service in Kubernetes
  13. Expose Application Using NodePort Service in Kubernetes
+ 14. Resolve VolumeMounts Issue in Kubernetes

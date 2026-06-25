@@ -16,3 +16,14 @@ KodeKloud Engineer Kubernetes Challenges and Solutions.
  12. Update Deployment and Service in Kubernetes
  13. Expose Application Using NodePort Service in Kubernetes
  14. Resolve VolumeMounts Issue in Kubernetes
+
+# Level 2
+1. Kubernetes Shared Volumes
+2. Kubernetes Sidecar Containers
+3. Deploy Nginx Web Server on Kubernetes Cluster
+4. Print Environment Variables
+5. Rolling Updates and Rolling Back Deployments in Kubernetes
+6. Deploy Jenkins on Kubernetes
+7. Deploy Grafana on Kubernetes Cluster
+8. Deploy Tomcat App on Kubernetes
+9. Deploy Node App on Kubernetes

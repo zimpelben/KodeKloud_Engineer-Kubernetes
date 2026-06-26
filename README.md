@@ -28,3 +28,4 @@ KodeKloud Engineer Kubernetes Challenges and Solutions.
 8. Deploy Tomcat App on Kubernetes
 9. Deploy Node App on Kubernetes
 10. Troubleshoot Deployment issues in Kubernetes
+11. Fix issue with LAMP Environment in Kubernetes

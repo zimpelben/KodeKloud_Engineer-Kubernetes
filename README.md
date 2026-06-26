@@ -27,3 +27,4 @@ KodeKloud Engineer Kubernetes Challenges and Solutions.
 7. Deploy Grafana on Kubernetes Cluster
 8. Deploy Tomcat App on Kubernetes
 9. Deploy Node App on Kubernetes
+10. Troubleshoot Deployment issues in Kubernetes
